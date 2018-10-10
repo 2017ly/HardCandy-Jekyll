@@ -3,10 +3,13 @@ title: 'your awesome title'
 description: 'your web description'
 keywords: 'your web keywords, another keywords'
 url: 'https://2017ly.github.io/leiyu/' # your host
-repository: leiyu/2017ly.github.io
+repository: 'https://2017ly.github.io/leiyu/'
+
 github_url: 'https://2017ly.github.io/leiyu/2017ly'
 url: https://github_username.github.io
-
+repository: github_username/github_username.github.io
+github_url: https://github.com/github_username
+url: https://github_username.github.io
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   首页: '/'
